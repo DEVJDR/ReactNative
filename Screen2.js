@@ -10,7 +10,7 @@ const Screen2 = () => {
   useEffect(() => {
     const timeout = setTimeout(() => {
       navigation.navigate('Screen3');
-    }, 20000); // Timeout set to 20 seconds (20000 milliseconds)
+    }, 20000); // Timeout set to 20 seconds
 
     return () => clearTimeout(timeout);
   }, [navigation]);

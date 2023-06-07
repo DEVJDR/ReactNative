@@ -72,8 +72,8 @@ const styles = StyleSheet.create({
     width: 200,
     height: 250,
     position: 'absolute',
-    bottom: 168, // Adjust the value based on your requirements
-    zIndex: 1, // To place the girl image above the stage
+    bottom: 168,
+    zIndex: 1, 
   },
   titleContainer: {
     position: 'absolute',

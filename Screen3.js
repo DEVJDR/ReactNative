@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
     top: -155,
     right: 20,
     alignItems: 'center',
-    flexDirection: 'row', // Added flexDirection
+    flexDirection: 'row', 
   },
   commentImage: {
     width: 180,
@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     color: '#e5a0c6',
     bottom: 30,
     right:58,
-    top:15, // Adjusted positioning
+    top:15, 
   },
 });
 
